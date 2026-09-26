@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Model files
+models/*.h5
+models/*.keras
+models/*.weights
+
+# Generated videos
+output/
+
+# Local input videos
+input/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
